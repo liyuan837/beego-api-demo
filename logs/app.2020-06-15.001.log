@@ -1,0 +1,18 @@
+2020/06/14 14:18:37.193 [I] [asm_amd64.s:2361]  http server Running on http://:8080
+2020/06/14 14:25:32.092 [I] [asm_amd64.s:2361]  http server Running on http://:8080
+2020/06/14 14:34:31.086 [I] [asm_amd64.s:2361]  http server Running on http://:8080
+2020/06/14 14:35:03.505 [I] [asm_amd64.s:2361]  http server Running on http://:8080
+2020/06/14 14:35:34.612 [I] [asm_amd64.s:2361]  http server Running on http://:8080
+2020/06/14 14:35:53.023 [I] [asm_amd64.s:2361]  http server Running on http://:8080
+2020/06/14 14:36:57.308 [I] [asm_amd64.s:2361]  http server Running on http://:8080
+2020/06/14 14:37:25.155 [I] [asm_amd64.s:2361]  http server Running on http://:8080
+2020/06/14 14:39:03.189 [I] [asm_amd64.s:2361]  http server Running on http://:8080
+2020/06/14 14:51:02.715 [I] [asm_amd64.s:2361]  http server Running on http://:8080
+2020/06/14 15:03:08.638 [I] [asm_amd64.s:2361]  http server Running on http://:8080
+2020/06/14 15:03:08.641 [C] [asm_amd64.s:2361]  ListenAndServe:  listen tcp :8080: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+2020/06/14 15:03:13.072 [I] [asm_amd64.s:2361]  http server Running on http://:8080
+2020/06/14 15:03:17.533 [I] [asm_amd64.s:2361]  http server Running on http://:8080
+2020/06/14 15:03:40.134 [I] [asm_amd64.s:2361]  http server Running on http://:8080
+2020/06/14 15:04:01.988 [I] [asm_amd64.s:2361]  http server Running on http://:8080
+2020/06/14 15:06:43.600 [I] [asm_amd64.s:2361]  http server Running on http://:8080
+2020/06/14 15:09:37.615 [I] [asm_amd64.s:2361]  http server Running on http://:8080
